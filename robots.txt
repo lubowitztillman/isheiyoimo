@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://logheexohx.project-stears.com/sitemap.xml
